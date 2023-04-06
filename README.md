@@ -3,15 +3,13 @@
 apt update
 apt upgrade
 sudo apt install python3-pip python3-venv
+python3 -m pip install --upgrade pip
+
 git clone https://github.com/s43c/Telegram-Mass-DM-Bot.git
 ```
 
 ```
 cd Telegram-Mass-DM-Bot && ls
-```
-
-```
-python3 -m pip install --upgrade pip
 ```
 
 ```
