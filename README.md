@@ -5,7 +5,7 @@
 First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/saifahmed2004/Telegram-Mass-DM-Bot.git
+apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/s43c/Telegram-Mass-DM-Bot.git
 ```
 
 ```
