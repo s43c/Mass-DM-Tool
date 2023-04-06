@@ -1,17 +1,14 @@
-# Telegram-Mass-DM-Sender-Bot Available At Free
-
-<h3 align="center">Termux Installation</h3>
-
-First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/s43c/Telegram-Mass-DM-Bot.git
+apt update
+apt upgrade
+sudo apt install python3-pip python3-venv
+git clone https://github.com/s43c/Telegram-Mass-DM-Bot.git
 ```
 
 ```
 cd Telegram-Mass-DM-Bot && ls
 ```
-
 
 ```
 python3 -m pip install --upgrade pip
@@ -20,7 +17,6 @@ python3 -m pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-
 
 ```
 ls
